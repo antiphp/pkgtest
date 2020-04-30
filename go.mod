@@ -1,3 +1,3 @@
-module github.com/antiphp/pkgtest/v2
+module github.com/antiphp/pkgtest
 
 go 1.13
